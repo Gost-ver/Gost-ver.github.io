@@ -1,0 +1,79 @@
+body {
+   /* background: linear-gradient(#28a5dd,#0cbfa4) ;*/
+    font-family: arial;
+    height: 100%;
+    margin: 0;
+    background: url('../Loak/Picters/0396.gif');
+    background-position: center;
+    /*background-size:cover;*/
+}
+html {
+    height: 100%;
+}
+.container {
+    margin: 8px auto;
+    padding: 20px;
+    width:700px;
+    background: #fff;
+    border-radius: 20px;
+    /*display: inline;*/
+    ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban     ban 
+}
+.inside{
+   /* display: inline;*/
+}
+.hole {
+    /*background:#28a5dd;*/
+    height: 20px;
+}
+/*.sayt {
+    border-radius: 40px;
+} */
+.pict {
+    width: 300px;
+    margin:0 auto;
+    padding: 10px;
+    background: #fff;
+    border-radius: 16px;
+}
+img {
+    transition: 0.5s;
+    border-radius: 2px;
+}
+img:hover {
+    border-radius: 11px;
+}
+/*.inside {
+    margin: 0 0 0 740px;
+    background: #fff;
+    width: 100px;
+    padding:10px;
+} */
+/*.b {
+    padding: 10px 30px;
+} */
+/*        dich                 */
+.aoao {
+    display:inline;
+}
+#1 {
+    padding:30px 100px;
+}
+.dich {
+    font-family: arial;
+    margin: 0;
+    /*background-image: */
+   /* background: linear-gradient(#2763eb,#04a283,#04a247)*/
+    height: 100%;
+    *background-image: url('../Loak/Picters/0396.gif') */  
+    
+}
+#a {
+    margin-top: 8px;
+}
+
+
+
+
+
+

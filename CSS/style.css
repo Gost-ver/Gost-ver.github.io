@@ -1,0 +1,200 @@
+
+.container {
+    background: #fff; 
+    width: 900px ;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+
+body {   
+    background:#955959;
+    font-family: Arial;    
+}
+img{
+     width: 500px;
+   transition: 1.5s;
+     
+}
+img:hover {
+    border-radius:20px;         
+}
+h2 {
+    color: #960707; 
+    
+}
+.rt {
+    background: #5ed321 ;
+    width: 100px;
+}
+p {
+    color:#181a36; 
+    /*width: 750px;*/
+}
+.btn { 
+
+    text-decoration: none; 
+    font-size: 18px;  
+    padding:6px 10px;
+    margin: 10px 6px;
+   /* transition: 1s;*/
+    transition: 0.5s;
+    background: linear-gradient(#22d437, #ef7004);
+    color:#0d0c0c;
+    
+}  
+.btn:hover {
+  background: #d40707;
+  border-radius: 10px;
+ /* background-position */
+  /*background: linear-gradient(#ef7004, #22d437 ); */  
+   /* background: linear-gradient(#2ea21e,#1257b5)*/
+}
+a {
+text-decoration:none;    
+}
+.menu__link{
+    padding:7px;
+    margin: 7px;
+    background: #07ed94;
+    transition: 0.5s;
+    color:#fff;
+}
+.menu__link:hover {
+    background: #64ffc3;
+    border-radius: 8px;
+}
+.cor{
+ background: #fff;   
+}
+.one {
+    background:#fff; 
+    
+}
+.one:hover {
+    background:#fff ;
+}
+li {
+    list-style: none;
+}
+.block{
+    padding:5px;
+    background: #3beb4f;
+    transition: 0.5s;
+    color:#fff;
+}
+.block:hover {
+    background: #395fc6;
+    border-radius: 5px;
+}
+.stal {
+    width: 350px;
+}
+
+/*--------------------адаптивный дизайн----------------------------------- */
+@media (max-width: 576px){
+    menu__link {
+        font-size: 23px:}
+    /*.container {
+        background: #d90e0e;
+                
+        }   */
+}
+    
+        
+    
+    
+
+@media (max-width:664px){
+   /* body{
+        font-size: 22px:
+    }*/
+    /*.container{
+        background: #d40707;
+    }    */
+    .menu__link {
+        font-size: 22px;
+    } 
+    .stal {
+        width: 450px;
+         }
+    .gert {
+        width: 604px;
+    }
+    .btn {
+        font-size: 25px;
+    }
+    p {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h1 {
+        font-size:  36px;
+    }
+    .li {
+    font-size: 24px;
+}
+    
+        
+}
+/*@media (max-width:550px) {
+    .container {
+        background:#cb6114;
+    } 
+}*/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+/*@media (max-width: 800px) {
+    .container {
+        background: #e60606;
+    }
+    
+}                             */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

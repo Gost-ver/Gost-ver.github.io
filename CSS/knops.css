@@ -1,0 +1,37 @@
+body{
+    background:#248d34 ;
+    
+}
+.container {
+    background: #fff; 
+    width: 900px ;
+    margin: 0 auto;
+}
+
+div {
+ padding: 10px; 
+   
+}
+a{
+    text-decoration:none;
+    padding: 6px 10px;
+    background: #c71313;
+    transition:0.4s;
+    color:#ded0d0;
+}
+a:hover {
+    background: #ff0808;
+    border-radius: 8px;    
+}
+.au{
+    background: #2c4dd6;   
+}
+.au:hover {
+   background:#1f7dfd; 
+}
+#yui{
+    background: #d96b1a ;
+}
+#yui:hover {
+    background: #f08910;
+}

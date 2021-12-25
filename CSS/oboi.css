@@ -1,0 +1,55 @@
+html {
+    height: 100%;
+}
+body {
+    background: linear-gradient(#eb3590,#a911c4,#8439d0,#342ddd);
+    height: 100%;
+    font-family: arial;
+}
+.container {
+    margin: 8px auto 0 auto ;
+    padding: 20px ;
+    background: #fff;
+    width: 800px ;
+    margin: top=8px;
+}
+.in {
+    text-decoration: none;
+    color:#106a1a; 
+}
+.in:hover {
+    color:#13551a;
+}
+.aut {
+    margin:0 30px 0 auto;
+    background: #288d3f;
+    width: 48px;
+    padding:5px 10px;
+    background: #c1d144;
+    transition:0.5s; 
+    border-radius: 7px;
+}
+.aut:hover {
+   padding:8px 15px; 
+   background: #edff5e;
+   border-radius: 16px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

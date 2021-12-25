@@ -1,0 +1,139 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: arial;
+    background: linear-gradient(#621ee2,#207cbf)
+}
+.container {
+    margin: 0 auto;
+    background: #fff;
+    width:800px;
+    padding:20px;
+    border-radius: 12px;
+}
+a {
+    text-decoration: none;
+    
+}
+
+/*.menu_link {
+    margin: botton="30px";
+}*/
+.menu {
+    margin: 0 auto;
+    width:175px;
+    padding:7px 20px;
+    margin:0 72px;
+    font-size:20px;
+    background: #1b58e0;
+    color:#fff;
+    border-radius:12px;
+    transition:0.5s;
+}
+.menu:hover {
+    background: #20ccc6;
+    padding:9px 25px;
+    margin:0 67px;
+    font-size:22px;
+}
+.pi{
+    width: 120px;
+    transition:0.5s;
+    border: 10px solid rgb(66 101 209/50%);
+    border-radius: 50%;
+    margin:0 45px;
+} 
+.pi::after {
+    content:"";
+    background: #190000;
+    width:150%;
+    height: 150%;
+    display:block;
+}
+.pi:hover {
+    width:127px;
+}
+.way {
+    margin:8px;
+    
+}
+/*.way::after {
+    content: "";
+    background: #150202;
+    width:
+    
+}*/
+h2 {
+    margin:top=20px;
+    font-size: 20px;
+    width:300px;
+    margin:16px 30px;
+} 
+h1 {
+    font-size:25px;
+    margin:16px auto 16px auto;
+    /*width: 800px;*/
+    /*display:inline-block;*/
+    width:572px;
+}
+.aut {
+    width:800px;
+    margin: 0 auto;
+}
+.a123  {
+    width: 200px;
+    height: 200px;
+    background: url("../Loak/Picters/himatack.jpg");
+    background-size:310px ;
+    margin:15px auto;
+    border: 10px solid rgb(255 255 255/50%);
+    border-radius: 50%;
+    transition:0.5s;
+    background-position: 50%;
+}
+.a123:hover {
+    width:220px;
+    height:220px; 
+    border:10px solid rgb(255 255 255/65%)
+}
+/*.only {
+    width: 200px;
+    height:200px;
+    /*margin:70px 30px;*/
+    /*padding:100px 100px;
+    border-radius:100%;
+    /**/
+}
+/*.only:hover {
+    padding:20px;
+    background: rgb(39 222 145);
+}*/
+/*#vk {
+    
+   
+    background: url("../loak/picters/vk.png");
+    background-position:50% 50%;
+      
+}
+.vk:hover {
+    ;
+}
+.pi {
+    border-radius: 100%;
+    width:155px ;
+    height:155px ;
+    background-size: cover;
+}
+    
+/*higiuheiuhuiehihiohzdjhozrj*/
+p 
+    
+
+display:inline-block;
+}
+
+
+
+
+
