@@ -1,0 +1,36 @@
+.container {
+    margin:0 auto;
+    width:800px;
+    padding:20px;
+    background:#fff;
+}
+body {
+    background:linear-gradient(#ba1010,#861fde) ;
+    font-family: arial;
+}
+a {
+    text-decoration: none;
+}
+.pynkt_menu {
+    color:#1d1818;
+    transition: 0.5s;
+    padding:5px 8px;
+    margin: 0 70px;
+    font-size: 18px;    
+}
+.pynkt_menu:hover {
+    background: #d83838;
+    border-radius: 7px;
+    color:#fff;
+}
+/*#line {
+    display: inline;
+}  */
+html,body {
+    height: 100%;
+    margin:0;
+}
+
+
+
+
