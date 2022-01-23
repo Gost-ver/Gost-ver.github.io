@@ -1,0 +1,281 @@
+html {
+    height: 100%;
+}
+body {
+    background:  #272727;
+    /*height: 100%;*/
+    font-family:arial;
+        
+}
+.container {
+    width:800px;
+    margin:8px auto;
+    background: #fff;
+    border-radius: 10px;
+    padding:10px;
+    position: relative;
+    top:82px;
+}
+.vedmak {
+    width:600px;
+    border-radius: 10px;
+    margin: 10px auto;
+    border:10px solid #180a6a;
+    display:block;
+}
+h1 {
+    display:block;
+    margin:0 auto;
+    width:450px;
+}
+.h2 {
+    margin:0 auto;
+}
+.h2-1 {
+    width:130px
+}
+.h2-2 {
+    width:320px;
+}
+.h2_new {
+    width:200px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color:#fff;
+}
+.btns {
+    width:430px;
+    margin:10px auto;
+}
+.knop {
+    margin:0 28px;
+}
+.info {
+    width:82px;
+    background: #a70000;
+    padding:5px 10px;
+    border-radius: 5px;
+    transition:0.5s;
+}
+.info:hover {
+    background: #f52b2b;
+    border-radius: 9px;
+}
+.ofical {
+    width: 191px;
+    background: #ada21f;
+    padding:5px 10px;
+    border-radius: 5px;
+    transition:0.5s;
+}
+.ofical:hover {
+    border-radius: 9px;
+    background: #d3c300;
+}
+.menu {
+    padding:7px 14px;
+    font-size: 22px;
+    background: #1e8b10;
+    transition:0.5s;
+    border-radius: 11px;
+    margin:0 67px;
+}
+.menu:hover {
+    font-size:24px;
+    /*margin:-3px 67px;*/
+}
+.fix1:hover {
+    background: #1156c4;
+}
+nav {
+    width:780px;
+    padding:20px 0px;;
+    margin:4px auto;
+    background: #fff;
+    border-radius: 10px;
+    /*border:8px solid #272727;*/
+   
+    /*left:240px;*/
+   /* margin:0;*/
+    
+    z-index: 2;
+}
+.out {
+    position:fixed;
+    top: 3px;
+    width:800px;
+    /*left:auto;
+    right: auto;*/
+    height: 74px;
+    z-index: 1;
+    background:#272727;
+    border-radius: 12px;
+}
+.stalker {
+    width:600px;
+    border-radius: 10px;
+    margin: 10px auto;
+    border:10px solid #180a6a;
+    display:block
+}
+.all {
+    width:240px;
+    margin:10px auto;
+    font-size: 22px;
+}
+.fix2:hover {
+    background: #c92b2b;
+}
+.fix3:hover {
+    background:#690dc4;
+}
+.text {
+    display:block;
+    margin:5px auto;
+}
+.ikons {
+    width:600px;
+    margin:10px auto;
+    border:10px solid #180a6a;
+    border-radius: 10px;
+    display:block;
+}
+.text {
+    margin:0 auto;
+    display:block;
+}
+.text1 {
+    width:660px;
+}
+.text2 {
+    width:480px
+}
+.text3 {
+    width:210px;
+}
+.text4 {
+    width:800px;
+}
+.zaglav {
+    width:220px;
+}
+.t5 {
+    width:350px;
+} 
+.new {
+    width:88px;
+}
+.contayn {
+    width:347px;
+}
+.dark {
+   
+    display:inline-block;
+    /*position:relative;*/
+}
+.shadow {
+    /*position:relative;
+    left:350px;
+    top:30px;*/
+   
+    display:inline-block;
+}
+.on {
+    margin: 0 auto;
+    width:700px;
+    
+}
+.idiv {
+    background: url("../img/coddy.jpg");
+    height: 200px;
+    background-size:  350px ;
+    width:350px;
+    background-position: 50%;
+}
+.coddy {
+    margin:0 auto;
+    width: 110px;
+    padding: 5px 10px;
+    background: #1136d0;
+    border-radius: 10px;
+    transition:0.5s;
+    display: block;
+}
+.coddy:hover {
+    background: #7811d0;
+}
+.geralt {
+    width:300px;
+    height: 300px;
+    background: url("../img/geralt 2.jpg");
+    border:10px solid #221f1f;
+    margin:5px auto;
+    border-radius: 100%;
+    background-size: cover;
+    background-position: 10%;
+}
+.info_in {
+    color:#fff;
+    padding:6px 10px;
+    margin: 7px auto;
+    border-radius: 10px;
+    transition:0.5s;
+    width:132px;
+    display: block;
+}
+.info_stalker {
+    width:400px;
+    height: 220px;
+    display: block;
+    margin: 0 auto;
+    background: url("../img/O-soznanie.jpg");
+    background-size: 400px;
+    border:10px solid #272727;
+    border-radius: 14px;
+}
+.info2 {
+    background: url("../img/strelok.jpg");
+    width:250px;
+    height: 334px;
+    background-size:250px;
+}
+.info_in:hover {
+    border-radius: 14px;
+}
+.in1 {
+    background: #a70000;
+}
+.in1:hover {
+    background:#f52b2b;
+}
+.ciri {
+    background: url("../img/ciri.jpeg");
+    background-position: 50% 0;
+    background-size: 600px;
+}
+.in2 {
+    background: #ada21f;
+    width:110px;
+}
+.in2:hover {
+    background:#d3c300;
+    
+}
+.h2-st {
+    margin: 0 auto;
+    display: block;
+}
+.st1 {
+    width:240px;
+}
+.st2 {
+    width:190px;
+}
+.st_1 {
+    width:150px;
+}
+.st_2 {
+    width:123px;
+}    

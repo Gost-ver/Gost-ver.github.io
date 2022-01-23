@@ -1,0 +1,214 @@
+html {
+    height: 100%;
+}
+body {
+    color: #fff ;
+    font-family: arial;
+    background: linear-gradient(#722811,#411f15);
+    height: 100%;
+}
+.container {
+    margin: 0 auto;
+    background: #141414;
+    padding:20px;
+    width:800px;
+    border-radius: 9px;
+}
+.picter {
+    width:270px;
+    height:270px;
+    border-radius: 100%;
+    border: 15px solid rgb(39 39 39);
+    margin:0 auto;
+    background: url("../../blog/Loak/Picters/geralt 2.jpg");
+    background-size: cover;
+    background-position: 20% ;
+}
+h2,h1 {
+    margin:10px auto;
+    display:block;
+    width:230px;
+}
+.mini {
+    margin:10px auto;
+    width:160px;
+    font-size:28px;
+}
+.up {
+    margin:10px auto 0 auto;
+}
+.boton {
+    font-size:27px;
+    width:180px;
+    margin:0 auto 17px auto;
+}
+p {
+    width:340px;
+    margin:0 auto;
+}
+.www {
+    width:140px;
+    margin:0 auto;
+    text-decoration: none;
+    display: block;
+}
+.www2 {
+    width:140px;
+    margin:0 auto;
+    text-decoration: none;
+    display: block;
+    color:#fff;
+    transition: 0.5s;
+    border-radius: 8px;
+}
+.www2:hover {
+    padding:5px 10px;
+    background: #a07f26;
+}
+.giper {
+    width:300px;
+    margin:15px auto; 
+    height: 90px;
+}
+a {
+    display:inline-block;
+    
+}
+   /* margin:0 10px;
+    transition: 0.5s;
+}
+a:hover {
+    margin:0 0 0 10px;
+}*/
+.vk {
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    background: url("../../blog/Loak/Picters/vk.png");
+    background-size: 60px;
+    transition:0.5s;
+   /* margin:0 10px;*/
+    margin:10px;
+}
+.vk:hover {
+    width:65px;
+    background-size:65px;
+    height: 65px;
+    /*margin:0 0 0 10px;*/
+}
+.face {
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    transition:0.5s;    
+    background: url("../../blog/Loak/Picters/facebook.png");
+    background-position:-5px -4px ;
+    background-size: 70px;
+    margin:10px;
+
+}
+.face:hover {
+    width:65px ;
+    height:65px ;
+    background-size:75px;
+}
+.inst {
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    background: url("../../blog/Loak/Picters/insta.jpg");
+    margin:10px;
+    background-size: 60px;
+    transition:0.5s;
+}
+.inst:hover {
+    width: 65px;
+    height: 65px;
+    background-size:65px;
+}
+.witcher {
+    width:360px;
+    margin: 0 auto;
+    display:block;
+    border-radius: 12px;
+    border: 7px solid rgb(157 147 147/50%);
+}
+.h1 {
+    width: 320px;
+    margin:10px auto;
+}
+.p2 {
+    margin:5px auto 10px auto;
+}
+.dark {
+    margin:25px auto;
+    width:310px;
+}
+.sa {
+    text-decoration: none;
+    color:#2e1710;
+    margin:0 20px;
+    padding:5px 15px;
+    background: #722811;
+    border-radius: 8px;
+    transition: 0.5s;
+    
+}
+.sa:hover {
+    color:#fff;
+    background: #a07f26;
+}
+@media (max-width:860px) {
+    .picter {
+        width:250px;
+        height: 250px;
+    }
+    body {
+        background: #7b280e;
+    }
+}
+@media (max-width:700px) {
+    .picter{
+        width:295px;
+        height:295px; 
+    }
+    .mini {
+        font-size: 34px;
+    }
+    .up {
+         font-size:38px;
+    }
+    .boton {
+         font-size:34px;
+    }
+    p {
+         font-size:22px;       
+
+    }
+    .vk,.face,.inst {
+        width:60px ;
+        height:60px ;
+    }
+    .www {
+        font-size:26px;
+        width:200px;
+    }
+    .dark {
+        width: 400px;
+    }
+    .sa {
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
