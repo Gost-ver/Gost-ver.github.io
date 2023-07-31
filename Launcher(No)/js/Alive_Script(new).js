@@ -104,7 +104,11 @@ SubscribePoint__Btn.forEach(function(I_Btn){
         }
         if(InputValue == "random"){
             if(I_Btn == SubscribePoint__Btn[1]){
-                if(confirm("Вы даёте соглашение на обработку ваших данных?") == true){
+                let confirm = confirm("Вы даёте соглашение на обработку ваших данных?");
+                if(confirm == false){
+                    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
+                }
+                if(confirm == true){
                     console.log("Gut gemacht");
                     // Body.parentNode.removeChild(Body);
                     Body.innerHTML = "";
@@ -130,9 +134,7 @@ SubscribePoint__Btn.forEach(function(I_Btn){
                         }
                     }, 1000);
                 }
-                else{
-                    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
-                }
+                
             }
         }
     });
