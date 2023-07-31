@@ -126,12 +126,12 @@ SubscribePoint__Btn.forEach(function(I_Btn){
                             }, 2000);
                         }
                         else{
-                            window.location.href = "https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/000-http-error-codes.png";
+                            window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
                         }
                     }, 1000);
                 }
                 else{
-                    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
+                    window.open("https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/000-http-error-codes.png", "_blank");
                 }
             }
         }
