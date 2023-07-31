@@ -81,7 +81,7 @@ BtnWrapper__Download.addEventListener("click", function(){
         alert("Вы не вошли в систему, в доступе отказано");
     }
     if(InputValue == "Devil_666"){
-        window.open("https://avavatar.ru/images/original/3/i14hBonRn8ke0lN3.jpg", "_blank");
+        window.location.href = "https://avavatar.ru/images/original/3/i14hBonRn8ke0lN3.jpg";
     }
     if(InputValue == "Cannibal Corpse (on)"){
         window.open("https://www.youtube.com/watch?v=uaFzmZrKKKw", "_blank");
