@@ -15,6 +15,7 @@ Users[0].addEventListener("click", function(){
         LinkBtn.setAttribute("href", "razrabs(Ilya).html");
         UserChange(110, -7, "Ilya Death(666)");
     }
+    LinkBtn.setAttribute("target", "_self");
 }); 
 
 Users[1].addEventListener("click", function(){
@@ -27,6 +28,7 @@ Users[1].addEventListener("click", function(){
         UserChange(69, 155, "Petr KV-2");
         LinkBtn.setAttribute("href", "razrabs(Petr).html");
     }
+    LinkBtn.setAttribute("target", "_self");
 }); 
 
 // let Param = [110, 69];
