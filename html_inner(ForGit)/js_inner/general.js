@@ -5,7 +5,7 @@ Ava.addEventListener("click", function(){
         LinkBtn.setAttribute("href", "https://www.youtube.com/watch?v=482tDopNzoc");
     }
     if(TipoInput.value == "Чёрт"){
-        LinkBtn.setAttribute("href", "https://www.youtube.com/watch?v=nqDNiyP5o4Y");
+        LinkBtn.setAttribute("href", "https://www.youtube.com/watch?v=zmmICPynDXI");
     }
     LinkBtn.setAttribute("target", "_blank");
 });
